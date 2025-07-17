@@ -46,6 +46,12 @@ Welcome to **theved‑ai** – a suite of building blocks for personal AI agents
 
 3. Mix‑and‑match services – they share a common `.env` contract and communicate over HTTP/WebSocket.
 
+## 💬 Join the Community
+
+We’re building a welcoming space for AI builders, hackers, and enthusiasts.
+
+👉 Join the Slack: [theved.ai Slack Workspace](https://join.slack.com/t/thevedai/shared_invite/zt-38q9owy11-Ysll9m72xd8Gs4zBhjuzkw) (Share projects, discuss PRs, swap memes, and explore new LLM tooling.)
+
 ## 🤝 Contributing
 
 We love issues, discussions, and PRs! Start with the [`good‑first‑issue`](https://github.com/theved-ai/ved-mcp-service/labels/good-first-issue) label or open a design doc if you want to propose a bigger change.
